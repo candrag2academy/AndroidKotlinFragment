@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="buttonOrange">#ff6633</color>
+    <color name="buttonPutih">#ffffff</color>
+    <color name="buttonPink">#c7057a</color>
+    <color name="grey">#7d7d7d</color>
+    <color name="light_grey">#d9d9d9</color>
+    <color name="hijau_kukus">#bfd142</color>
+    <color name="biru_kukus">#42b7ea</color>
+    <color name="primaryPantone">#a0d0cb</color>
+</resources>
